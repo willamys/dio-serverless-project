@@ -142,7 +142,5 @@ resources:
 
 ### Documentation for API at Postman
 
-```
 https://www.getpostman.com/collections/2c6f2b7bc68b3cf92198
-```
 
